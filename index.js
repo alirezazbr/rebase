@@ -1,3 +1,1 @@
-console.log('rebase');
-
-console.log('new_1');
+console.log('rebase, i changed the master');
